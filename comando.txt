@@ -1,0 +1,2 @@
+
+print("¡Comando enviado desde el script transmisor!")
