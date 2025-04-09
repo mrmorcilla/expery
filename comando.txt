@@ -1,4 +1,0 @@
-
-
-print( run.suma(5,2) )
-
