@@ -1,6 +1,0 @@
-
-
-print('hola')
-time.sleep(3)
-run.exit()
-
