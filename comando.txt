@@ -1,7 +1,0 @@
-
-
-run.cmd('cls')
-print('se cerrara la carpeta en 3 segundos, pero primero seleccionala')
-time.sleep(3)
-run.close()
-
