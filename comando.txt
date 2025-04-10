@@ -1,3 +1,0 @@
-print('la aplicacion en uso se cerrara en 3 segundos')
-time.sleep(3)
-run.close()
